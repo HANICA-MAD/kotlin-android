@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reddit</string>
+    <string name="title_post_list">Posts</string>
+    <string name="title_post_detail">Post Detail</string>
+    <string name="activity_post_list_toolbar_title">Posts</string>
+    <string name="sub_reddit">r/Android</string>
+</resources>
